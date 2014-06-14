@@ -31,3 +31,13 @@ body {
 .accordion-item .type {
     float: right;
 }
+
+div.data {
+    background: #fff;
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: .8em;
+    line-height: 140%;
+    display: none;
+}
